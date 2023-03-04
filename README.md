@@ -6,6 +6,15 @@ There are two file first quizportal is for backend and quizui for the frontend.
 
 Ui is responsible for all the device including phone and tv.
 
+As a Node.js developer, I have been able to complete the frontend and some features of the backend, including registration, login, view teacher dashboard, and the direct URL in the tab bar.
+
+Working backend Feature
+Registratin
+Login
+View teacher Dashboard
+Diret Url in tab bar
+ 
+
 I am also attaching screenshorts
 ![Screenshot 2023-03-04 174332](https://user-images.githubusercontent.com/53552258/222903340-fed1356d-bd17-498a-b841-f07ebc1d8b51.png)
 ![Screenshot 2023-03-04 174527](https://user-images.githubusercontent.com/53552258/222903343-2e02f76f-80c4-428f-8f30-c8e379c9ff3d.png)
