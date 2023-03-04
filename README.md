@@ -6,9 +6,11 @@ There are two file first quizportal is for backend and quizui for the frontend.
 
 Ui is responsive for all the device including phone and tv.
 
-As a Node.js developer, I have been able to complete the frontend and some features of the backend, including registration, login, view teacher dashboard, and the direct URL in the tab bar.
+As a Node.js developer, I have been able to complete the frontend and some features of the backend through Django, including registration, login, view teacher dashboard, and the direct URL in the tab bar.
 
-Working backend Feature
+
+
+Working backend 
 Registratin
 Login
 View teacher Dashboard
