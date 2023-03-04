@@ -1,6 +1,6 @@
 # quiz
 
-first install all the dependencies.
+first install all the dependencies/packages.
 
 There are two file first quizportal is for backend and quizui for the frontend.
 
