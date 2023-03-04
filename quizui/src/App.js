@@ -11,6 +11,7 @@ import TeacherRegister from './component/Home/TeacherRegister';
 import TeacherDashboard from './component/TeacherDashboard/TeacherDashboard';
 import StudentDashboard from './component/StudentDashboard/StudentDashboard';
 import Marks from './component/Marks/Marks';
+import DailyQuiz from './component/Marks/DailyQuiz';
 
 function App() {
   return (
@@ -28,6 +29,7 @@ function App() {
           <Route path="/teacher-dashboard" element={<TeacherDashboard />} />
           <Route path="/student-dashboard" element={<StudentDashboard />} />
           <Route path="/student-dashboard/marks" element={<Marks />} />
+          <Route path="/student-dashboard/quiz" element={< DailyQuiz/>} />
           
           
 
