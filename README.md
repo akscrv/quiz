@@ -2,7 +2,9 @@
 
 first install all the dependencies.
 
-There are two file first quizportal is for backend and quizui for the frontend 
+There are two file first quizportal is for backend and quizui for the frontend.
+
+Ui is responsible for all the device including phone and tv.
 
 I am also attaching screenshorts
 ![Screenshot 2023-03-04 174332](https://user-images.githubusercontent.com/53552258/222903340-fed1356d-bd17-498a-b841-f07ebc1d8b51.png)
